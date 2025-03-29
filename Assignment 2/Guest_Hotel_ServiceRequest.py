@@ -1,8 +1,4 @@
 # Guest Class
-"""this class represents the hotel guest with personal information and loyalty points."""
-
-
-# Guest Class
 class Guest:
     """this class represents the hotel guest with personal information and loyalty points."""
     
